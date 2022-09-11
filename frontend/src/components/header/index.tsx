@@ -7,7 +7,7 @@ const Header = ()=>{
         <header>
             <div className='dsmeta-logo-container'>
                 <img src={logo} alt="dsmeta" />
-                <h1>DSMeta</h1>
+                <h1>SalesApp</h1>
                 <p>
                     Desenvolvidor por:
                     <a href='https://leonardovalle34.github.io/cv' target="_blank"> Leonardo do Valle </a>
